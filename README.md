@@ -3,6 +3,9 @@
 * 현재 목차 상의 모든 영상이 유튜브에 업로드 되었습니다. (2019-10-05)
 
 ### 목차 구성
+
+현수꺼
+
 * 0강: 강의 소개 [(:bookmark_tabs: 강의 자료)](/00.%20강의%20소개/) [(:link: 유튜브 강의 보러가기)](https://www.youtube.com/watch?v=V8Lpf3WCZ4g&list=PLRx0vPvlEmdBx9X5xSgcEk4CEbzEiws8C&index=1)
 * 1강: 행렬의 필요성 [(:bookmark_tabs: 강의 자료)](/01.%20행렬의%20필요성/) [(:link: 유튜브 강의 보러가기)](https://www.youtube.com/watch?v=hqqmIemBbvw&list=PLRx0vPvlEmdBx9X5xSgcEk4CEbzEiws8C&index=2)
 * 2강: 다양한 파이썬 개발 환경 소개 [(:bookmark_tabs: 강의 자료)](/02.%20다양한%20파이썬%20개발%20환경%20소개/)  [(:link: 유튜브 강의 보러가기)](https://www.youtube.com/watch?v=YkeGZ3MGr3o&list=PLRx0vPvlEmdBx9X5xSgcEk4CEbzEiws8C&index=3)
